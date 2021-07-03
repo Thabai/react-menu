@@ -31,7 +31,7 @@ p {
 
 /* section */
 .section {
-  width: 80%;
+  width: 90%;
   margin: 10px auto;
 }
 
@@ -78,9 +78,11 @@ p {
   gap: 45px 30px;
   justify-items: center;
 }
+
 .menu-item {
   display: grid;
 }
+
 .img {
   object-fit: cover;
   height: 200px;

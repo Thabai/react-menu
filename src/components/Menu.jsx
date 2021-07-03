@@ -1,4 +1,5 @@
 import React from 'react';
+import FadeIn from 'react-fade-in/lib/FadeIn';
 
 const Menu = ({items}) => {
   return (
@@ -6,7 +7,7 @@ const Menu = ({items}) => {
       {items.map((menuItem) => {
         const {id,title,img,price,desc} = menuItem;
 
-        return <article key={id} className='menu-item'>
+        return <FadeIn key={id} className='menu-item'>
           <img src={img} alt={title} className='img' />
           <div className='item-info'>
             <header>
@@ -15,7 +16,7 @@ const Menu = ({items}) => {
             </header>
             <p className='item-text'>{desc}</p>
           </div>
-        </article>
+        </FadeIn>
       })}
     </div>
   );
