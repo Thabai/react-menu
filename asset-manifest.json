@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-menu/static/css/main.f9411742.chunk.css",
-    "main.js": "/react-menu/static/js/main.e3f91461.chunk.js",
-    "main.js.map": "/react-menu/static/js/main.e3f91461.chunk.js.map",
-    "runtime-main.js": "/react-menu/static/js/runtime-main.15134c96.js",
-    "runtime-main.js.map": "/react-menu/static/js/runtime-main.15134c96.js.map",
-    "static/js/2.91f304ea.chunk.js": "/react-menu/static/js/2.91f304ea.chunk.js",
-    "static/js/2.91f304ea.chunk.js.map": "/react-menu/static/js/2.91f304ea.chunk.js.map",
-    "static/js/3.0ec5cc9a.chunk.js": "/react-menu/static/js/3.0ec5cc9a.chunk.js",
-    "static/js/3.0ec5cc9a.chunk.js.map": "/react-menu/static/js/3.0ec5cc9a.chunk.js.map",
+    "main.css": "/react-menu/static/css/main.b6356365.chunk.css",
+    "main.js": "/react-menu/static/js/main.d4f9f0fb.chunk.js",
+    "main.js.map": "/react-menu/static/js/main.d4f9f0fb.chunk.js.map",
+    "runtime-main.js": "/react-menu/static/js/runtime-main.26afe502.js",
+    "runtime-main.js.map": "/react-menu/static/js/runtime-main.26afe502.js.map",
+    "static/js/2.446864ca.chunk.js": "/react-menu/static/js/2.446864ca.chunk.js",
+    "static/js/2.446864ca.chunk.js.map": "/react-menu/static/js/2.446864ca.chunk.js.map",
+    "static/js/3.f63635dd.chunk.js": "/react-menu/static/js/3.f63635dd.chunk.js",
+    "static/js/3.f63635dd.chunk.js.map": "/react-menu/static/js/3.f63635dd.chunk.js.map",
     "index.html": "/react-menu/index.html",
-    "static/css/main.f9411742.chunk.css.map": "/react-menu/static/css/main.f9411742.chunk.css.map",
-    "static/js/2.91f304ea.chunk.js.LICENSE.txt": "/react-menu/static/js/2.91f304ea.chunk.js.LICENSE.txt",
+    "static/css/main.b6356365.chunk.css.map": "/react-menu/static/css/main.b6356365.chunk.css.map",
+    "static/js/2.446864ca.chunk.js.LICENSE.txt": "/react-menu/static/js/2.446864ca.chunk.js.LICENSE.txt",
     "static/media/baconeggmuffins.c059a896.png": "/react-menu/static/media/baconeggmuffins.c059a896.png",
     "static/media/chicken.f26f7c1a.png": "/react-menu/static/media/chicken.f26f7c1a.png",
     "static/media/chimichangas.45fe7b1b.png": "/react-menu/static/media/chimichangas.45fe7b1b.png",
@@ -22,9 +22,9 @@
     "static/media/waygu.3b988bb8.png": "/react-menu/static/media/waygu.3b988bb8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.15134c96.js",
-    "static/js/2.91f304ea.chunk.js",
-    "static/css/main.f9411742.chunk.css",
-    "static/js/main.e3f91461.chunk.js"
+    "static/js/runtime-main.26afe502.js",
+    "static/js/2.446864ca.chunk.js",
+    "static/css/main.b6356365.chunk.css",
+    "static/js/main.d4f9f0fb.chunk.js"
   ]
 }
